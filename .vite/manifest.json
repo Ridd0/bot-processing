@@ -1,0 +1,23 @@
+{
+  "_client-CTs2kojZ.js": {
+    "file": "assets/client-CTs2kojZ.js",
+    "name": "client",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/app-C9bEeNiM.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "_client-CTs2kojZ.js",
+      "_client-CTs2kojZ.js"
+    ],
+    "css": [
+      "assets/app-CSJywfk1.css"
+    ]
+  }
+}
